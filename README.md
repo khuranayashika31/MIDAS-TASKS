@@ -4,11 +4,12 @@
  Hello 👋🏻
  This repository consists of Task 2 and Task 3.
  
- **For Task 2, the data files follow the directory structure below:**
- 
 **NOTE: The folder names remain same as provided in the dataset**
  
+ **For Task 2, the data files follow the directory structure below:**
  
+ 
+
  **PART 1:** 
  train --> (Sample001, Sample002,..... Sample062) --> images for each sample
  
@@ -25,6 +26,10 @@
  - mnistTask --> (0,1,2,....9) --> images for each sample
  - mnist_train.csv
  - mnist_test.csv
+ 
+  **For Task 3, the data files follow the directory structure below:**
+  - flipkart.csv
+ 
  
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
  
