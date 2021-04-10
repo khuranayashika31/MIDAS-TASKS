@@ -6,7 +6,7 @@
  
  **For Task 2, the data files follow the directory structure below:**
  
- * The folder names remain same as provided in the dataset
+**NOTE: The folder names remain same as provided in the dataset**
  
  
  **PART 1:** 
