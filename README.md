@@ -16,15 +16,15 @@
  For this task, copied the files Sample001.....Sample010 i.e. images of digits into a folder called "numbers"
  So, structure is:
  
- 🔸 numbers --> (Sample001, Sample002,..... Sample010) --> images for each sample
- 🔸 mnist_train.csv
- 🔸 mnist_test.csv
+ - numbers --> (Sample001, Sample002,..... Sample010) --> images for each sample
+ - mnist_train.csv
+ - mnist_test.csv
  
  
  **PART 3:** 
- 🔸 mnistTask --> (0,1,2,....9) --> images for each sample
- 🔸 mnist_train.csv
- 🔸 mnist_test.csv
+ - mnistTask --> (0,1,2,....9) --> images for each sample
+ - mnist_train.csv
+ - mnist_test.csv
  
  ✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢✢
  
